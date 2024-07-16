@@ -9,13 +9,13 @@ A sleek and modern wallpaper app built with React Native. Simple, user-friendly,
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/wallpaper-app/blob/main/LICENSE">
+  <a href="https://github.com/rit3zh/react-native-wallpaper-app">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   </a>
-  <a href="https://github.com/rit3zh/Fresco" target="_blank">
+  <a href="https://github.com/rit3zh/react-native-wallpaper-app" target="_blank">
     <img src="https://img.shields.io/badge/Made_with-React_native-blue" alt="Build Status">
   </a>
-  <a href="https://github.com/rit3zh/Fresco" target="_blank">
+  <a href="https://github.com/rit3zh/react-native-wallpaper-app" target="_blank">
     <img src="https://badgen.net/github/release/Naereen/Strapdown.js" alt="License">
   </a>
   <!-- <a href="https://github.com/your-username/wallpaper-app">
@@ -45,13 +45,13 @@ Welcome to the React Native Wallpaper App! This app provides a clean and modern 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/wallpaper-app.git
+   git clone https://github.com/rit3zh/react-native-wallpaper-app.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd wallpaper-app
+   cd react-native-wallpaper-app
    ```
 
 3. **Install dependencies:**
@@ -69,11 +69,3 @@ Welcome to the React Native Wallpaper App! This app provides a clean and modern 
 ## 👥 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/wallpaper-app/blob/main/LICENSE) file for details.
-
----
-
-Feel free to customize the placeholders (`your-username`) with your actual GitHub username and any other details you'd like to add.
