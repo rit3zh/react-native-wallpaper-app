@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@expo/vector-icons": "^14.0.2",
     "@react-native-masked-view/masked-view": "0.3.1",
     "@react-navigation/bottom-tabs": "^7.0.0-rc.19",
@@ -34,11 +35,20 @@
     "expo-media-library": "~16.0.4",
     "expo-file-system": "~17.0.1",
     "expo-sqlite": "~14.0.4"
+=======
+    "expo": "~51.0.19",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+>>>>>>> bcf4eaf (Initial commit)
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
+<<<<<<< HEAD
     "tailwindcss": "^3.3.2",
+=======
+>>>>>>> bcf4eaf (Initial commit)
     "typescript": "^5.1.3"
   },
   "private": true
